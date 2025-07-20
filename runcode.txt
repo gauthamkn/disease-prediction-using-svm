@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Acer\Downloads\multiple-disease-prediction-streamlit-app-main\app.py"
