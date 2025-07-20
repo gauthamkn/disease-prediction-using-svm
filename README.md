@@ -111,8 +111,8 @@ Contributions are welcome! Feel free to fork the repo, raise issues, or submit p
 ## 📬 Contact
 
 **Gautham Nambiar**  
-📧 Email: [your-email@example.com]  
-🔗 GitHub: [@gauthamkn](https://github.com/gauthamkn)
+📧 Email: gauthamkn999@gmail.com  
+🔗 GitHub: @gauthamkn]-https://github.com/gauthamkn
 
 ---
 
